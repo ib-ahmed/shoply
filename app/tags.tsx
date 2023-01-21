@@ -1,4 +1,4 @@
-export function Tags() {
+export function DefaultTags() {
 	return (
 		<>
 			<meta name="viewport" content="width=device-width, initial-scale=1" />
